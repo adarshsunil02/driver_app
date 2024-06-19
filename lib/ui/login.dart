@@ -1,6 +1,5 @@
 import 'package:driverapp/firebaseauth.dart';
 import 'package:driverapp/ui/destination.dart';
-import 'package:driverapp/ui/profile.dart';
 import 'package:flutter/material.dart';
 
 class Login extends StatefulWidget {

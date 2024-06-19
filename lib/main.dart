@@ -1,7 +1,7 @@
 import 'package:driverapp/firebase_messaging.dart';
 import 'package:driverapp/firebase_options.dart';
 import 'package:driverapp/notification_handler.dart';
-import 'package:driverapp/pushnotificatiom/pushnotificationsystem.dart';
+import 'package:driverapp/pushnotification/pushnotificationsystem.dart';
 import 'package:driverapp/ui/destination.dart';
 import 'package:driverapp/ui/login.dart';
 import 'package:firebase_core/firebase_core.dart';

@@ -1,4 +1,4 @@
-import 'package:driverapp/pushnotificatiom/dialoguebox.dart';
+import 'package:driverapp/pushnotification/dialoguebox.dart';
 import 'package:driverapp/user_ride_request_info.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
